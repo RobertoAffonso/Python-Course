@@ -1,0 +1,5 @@
+Guitar
+Bass Guitar
+Drums
+Keyboard
+Trumpet
